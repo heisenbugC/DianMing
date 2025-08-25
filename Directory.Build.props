@@ -1,0 +1,6 @@
+<Project>
+  <PropertyGroup>
+    <!-- Ensure MSBuild uses the root app.manifest (avoid duplicate manifest entries causing MSB3113) -->
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+</Project>

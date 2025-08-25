@@ -1,0 +1,12 @@
+publish/
+bin/
+obj/
+.vs/
+Connected Services/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.ncrunch*
+*.DotSettings.user
+.pfx

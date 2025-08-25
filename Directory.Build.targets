@@ -1,0 +1,6 @@
+<Project>
+  <!-- Remove legacy project-level Import that causes BC40057 under older frameworks -->
+  <ItemGroup>
+    <Import Remove="System.Threading.Tasks" />
+  </ItemGroup>
+</Project>
